@@ -1,5 +1,5 @@
 {
-  "name": "comp308-w2019-lesson4b",
+  "name": "exercisee-crud",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -22,9 +22,9 @@
     "morgan": "~1.9.0",
     "popper.js": "^1.14.6"
   },
-  "description": "Mongo and Mongoose Demo",
+  "description": "CRUD",
   "main": "server.js",
-  "author": "Tom Tsiliopoulos",
+  "author": "Jane Quintos",
   "license": "ISC",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP308-W2019-Lesson4B.git"
+    "url": "git+https://github.com/JanePQ/ExerciseE-CRUD.git"
   },
   "bugs": {
-    "url": "https://github.com/CentennialCollege/COMP308-W2019-Lesson4B/issues"
+    "url": "https://github.com/JanePQ/ExerciseE-CRUD/issues"
   },
-  "homepage": "https://github.com/CentennialCollege/COMP308-W2019-Lesson4B#readme"
+  "homepage": "https://github.com/JanePQ/ExerciseE-CRUD#readme"
 }
